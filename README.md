@@ -2,10 +2,9 @@
 
 ## Magento 1.x Dashboard Reports Extension
 
-Upgrade your Admin Dashboard with the most complete Dashboard Extension for Magento. 
-**50+ stats/reports right on your dashboard!**
-PowerDash replaces the default Admin Dashboard with one that will help you manage your business.
-PowerDash places at a glance all the stats that matter, so you can keep an eye on your store's KPIs without effort.
+Upgrade your Admin Dashboard with the most complete Dashboard Extension for Magento.  
+**50+ stats/reports right on your dashboard!**  
+PowerDash replaces the default Admin Dashboard with one that will help you manage your business and places at a glance all the stats that matter, so you can keep an eye on your store's KPIs without effort.
 
 ![Preview of PowerDash Magento Dashboard](https://softag.store/media/m1connect-feat.jpg)
 
