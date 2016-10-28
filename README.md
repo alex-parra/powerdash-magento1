@@ -24,7 +24,7 @@ PowerDash has been successfully tested in all versions from Magento 1.7 to 1.9.3
 ### Is there a Magento 2.x version?
 Yes there is: PowerDashM2 https://softag.store/powerdashm2-magento2-dashboard/
 
-### What stats does PowerDash include?
+### What reports does PowerDash include?
 Right on your Dashboard, with almost zero-configuration, you'll get:  
 - Recent Orders, colored by state and with additional info
 - Day Sales Report: Complete sales stats for current day, last day, best day
